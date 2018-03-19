@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ddesignme.me" resolutions="1x" timestamp="1520862013695">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ddesignme.me" resolutions="1x" timestamp="1521465244476">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4096906640" ref="portfolio:web-design:about:contact:index:app-design"/>
@@ -9,8 +9,8 @@
     <file name="nomq_web-design.css" crc="3881049527" ref="web-design"/>
     <file name="about.css" crc="131625097" ref="about"/>
     <file name="nomq_about.css" crc="4243676268" ref="about"/>
-    <file name="contact.css" crc="230478126" ref="contact"/>
-    <file name="nomq_contact.css" crc="333302678" ref="contact"/>
+    <file name="contact.css" crc="454600370" ref="contact"/>
+    <file name="nomq_contact.css" crc="4143244363" ref="contact"/>
     <file name="index.css" crc="193834394" ref="index"/>
     <file name="nomq_index.css" crc="4237078557" ref="index"/>
     <file name="app-design.css" crc="154527161" ref="app-design"/>
@@ -47,9 +47,6 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -59,6 +56,9 @@
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
       <caption webpage="web-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="believeinyourself-u630-fr.jpg" crc="42933290" ref="index"/>
     <file name="believeinyourself714x402.jpg" crc="141483859" seo="true" ref="index">
@@ -88,10 +88,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="believeinyourself-u630-fr2.jpg" crc="399600104" ref="index"/>
     <file name="believeinyourself444x250.jpg" crc="452129426" seo="true" ref="index">
@@ -101,8 +101,9 @@
     <file name="believeinyourself381x214.jpg" crc="394316594" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="believeinyourself960x540.jpg" crc="368838858" ref="index">
+    <file name="believeinyourself960x540.jpg" crc="368838858" ref="index:contact">
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact:web-design:app-design"/>
     <file name="mememe-crop-u814.jpg" crc="3984649818" seo="true" ref="about">
@@ -366,7 +367,7 @@
   <file name="index.html" crc="98633958" seo="true" mt="1520298465319" redirect="true"/>
   <file name="about.html" crc="4043558342" seo="true" mt="1520298093454" redirect="true"/>
   <file name="portfolio.html" crc="3937770640" seo="true" mt="1520298093454" redirect="true"/>
-  <file name="contact.html" crc="3927828755" seo="true" mt="1520298093454" redirect="true"/>
+  <file name="contact.html" crc="18963339" seo="true" mt="1521465207376" redirect="true"/>
   <file name="web-design.html" crc="4215002834" seo="true" mt="1520298093454" redirect="true"/>
   <file name="app-design.html" crc="4163177222" seo="true" mt="1520298093454" redirect="true"/>
 </manifest>
